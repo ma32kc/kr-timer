@@ -1,0 +1,17 @@
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.csproj.AssemblyReference.cache
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.Form1.resources
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.csproj.GenerateResource.cache
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.AssemblyInfoInputs.cache
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.AssemblyInfo.cs
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.csproj.CoreCompileInputs.cache
+C:\Users\ma32k\source\repos\timer\timer\bin\Debug\net6.0-windows\timer.exe
+C:\Users\ma32k\source\repos\timer\timer\bin\Debug\net6.0-windows\timer.deps.json
+C:\Users\ma32k\source\repos\timer\timer\bin\Debug\net6.0-windows\timer.runtimeconfig.json
+C:\Users\ma32k\source\repos\timer\timer\bin\Debug\net6.0-windows\timer.dll
+C:\Users\ma32k\source\repos\timer\timer\bin\Debug\net6.0-windows\timer.pdb
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.dll
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\refint\timer.dll
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.pdb
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\timer.genruntimeconfig.cache
+C:\Users\ma32k\source\repos\timer\timer\obj\Debug\net6.0-windows\ref\timer.dll
